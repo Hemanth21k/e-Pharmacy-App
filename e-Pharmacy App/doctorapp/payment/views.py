@@ -27,8 +27,8 @@ def send(phone_no):
 
     print(phone_no)
     phone_no = "6382677337"
-    account_sid = "ACf62e531f2099e445acf3cce250fbdc6a"
-    auth_token  = "86e2d4b6723e59a265aafbafa24d7bdb"
+    account_sid = <use your account_sid>
+    auth_token  = <use your auth_token>
     client = Client(account_sid, auth_token)
 
     message = client.messages.create(
