@@ -42,7 +42,7 @@
    - Order History of the user
   
  - Shop Profile
-   - Allows thw shop owner to add a new medicine into the list (if it does not exist)
+   - Allows the shop owner to add a new medicine into the list (if it does not exist)
    - List of items in the shop
    
  - Chatbot
@@ -67,7 +67,7 @@
  
  ### Challenges
  
- The twilio API used here could only send SMS to twilio-registered phone numbers. If you want to send SMS to any phonr number you need to subscribe their premium pack.
+ The twilio API used here could only send SMS to twilio-registered phone numbers. If you want to send SMS to any phone number you need to subscribe their premium pack.
  
  ### Contributed By:
   - Shreya
